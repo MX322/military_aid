@@ -1,0 +1,16 @@
+SortCompanyHeavyArmament function used
+ShowNumCompany function used
+StoreToFile function used
+RestoreFromFile function used
+StoreToFile function used
+ShowCompany function used
+SortCompanyHeavyArmament function used
+RemoveElement function used
+StoreToFile function used
+RestoreFromFile function used
+ShowCompany function used
+RemoveElement function used
+SortCompanyEquipment function used
+ShowNumCompany function used
+StoreToFile function used
+RestoreFromFile function used
